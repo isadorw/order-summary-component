@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background: url(../images/pattern-background-desktop.svg);
+  background: url(/images/pattern-background-desktop.svg);
   background-size: 100%;
   background-repeat: no-repeat;
  
@@ -137,7 +137,7 @@ main button:hover {
 
 @media screen and (max-width: 650px) {
   body {
-    background: url(../images/pattern-background-mobile.svg);
+    background: url(/images/pattern-background-mobile.svg);
     background-size: 100%;
     background-repeat: no-repeat;
   }
